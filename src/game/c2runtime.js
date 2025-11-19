@@ -21808,6 +21808,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.exps.ImagePointY,
 	cr.plugins_.Sprite.prototype.acts.SetScale,
 	cr.plugins_.Sprite.prototype.acts.SetAngle,
+	cr.plugins_.Sprite.prototype.acts.SetAnimSpeed,
 	cr.plugins_.Sprite.prototype.cnds.IsOverlapping,
 	cr.plugins_.Sprite.prototype.acts.StartAnim,
 	cr.plugins_.Mouse.prototype.cnds.OnObjectClicked,
