@@ -6,7 +6,7 @@ function App() {
       <section className="center-align">
         <div className="img-container img1"></div>
         <header>
-          <a href="/src/game/index.html">Jogar</a>
+          <a href="/Built-Sugar-Dash/game/index.html" target="_blank">Jogar</a>
         </header>
         <div className="container center-align-column project-c">
           <h1 className="project-name">Sugar Dash</h1>
