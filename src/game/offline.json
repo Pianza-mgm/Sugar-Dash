@@ -1,7 +1,7 @@
 ﻿{
-	"version": 1763566842,
+	"version": 1763574577,
 	"fileList": [
-		"data.js",
+		"data.json",
 		"c2runtime.js",
 		"jquery-3.4.1.min.js",
 		"offlineClient.js",
@@ -34,6 +34,12 @@
 		"images/sprite10-sheet0.png",
 		"images/botaosair-sheet0.png",
 		"images/botaosair2-sheet0.png",
+		"images/sprite12-sheet0.png",
+		"images/sprite13-sheet0.png",
+		"images/sprite14-sheet0.png",
+		"images/sprite16-sheet0.png",
+		"images/sprite17-sheet0.png",
+		"images/sprite19-sheet0.png",
 		"media/dash-2.m4a",
 		"media/dash-2.ogg",
 		"media/dash.m4a",
